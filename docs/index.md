@@ -15,7 +15,7 @@ StUF Wabo-BAG services is een op StUF-ZKN en StUF-BG gebaseerde berichtenstandaa
 De meeste wijzigingen in de BAG vinden hun oorsprong in de processen voor vergunningverlening en handhaving. Gemeentes hebben voor de BAG hun eigen applicatie,terwijl voor vergunningverlening en handhaving meestal een andere applicatie (kortweg ‘de Wabo-applicatie’) beschikbaar is. Voor berichtenverkeer tussen de applicaties voor Wabo en BAG is dit koppelvlak beschreven.
 
 ## Community voor vragen en wijzigingsverzoeken
-Voor het indienen van wijzigingsverzoeken en het stellen van vragen kan gebruik worden gemaakt van de community Wabo-BAG services. Bij wijzigingsverzoeken vragen we u de volgende zaken op te nemen:
+Voor het indienen van wijzigingsverzoeken en het stellen van vragen kan gebruik worden gemaakt van de [community Wabo-BAG services](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/Koppelvlak%20-%20Wabo-BAG). Bij wijzigingsverzoeken vragen we u de volgende zaken op te nemen:
 
 * Onderbouwing voor het wijzingsverzoek
 * De eigen voorkeur qua oplossing, inclusief voor- en nadelen

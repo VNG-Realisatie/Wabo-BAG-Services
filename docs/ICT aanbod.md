@@ -19,12 +19,3 @@ Dit overzicht is ook te bereiken via deze [directe link](https://www.softwarecat
 
 ## Staat uw huidige softwareproduct niet in het overzicht?
 Neem in dit geval contact op met de Softwareleverancier, of de Gebruikersvereniging om de GEMMA Softwarecatalogus te laten actualiseren of de standaard te laten inbouwen. De leverancier is er zelf verantwoordelijk voor het actueel houden van de GEMMA Softwarecatalogus.
-
-## Community voor vragen en wijzigingsverzoeken
-Voor het indienen van wijzigingsverzoeken en het stellen van vragen kan gebruik worden gemaakt van de [community Wabo-BAG Services](https://discussie.kinggemeenten.nl/discussie/gemma/koppelvlak-wabo-bag). Bij wijzigingsverzoeken vragen we u de volgende zaken op te nemen:
-
-* Onderbouwing voor het wijzingsverzoek
-* De eigen voorkeur qua oplossing, inclusief voor- en nadelen
-* Eventuele andere oplossingen inclusief voor en nadelen
-
-Alle leveranciers en gemeenten kunnen dan online reageren op een wijzigingsverzoek. KING zal naar aanleiding van deze reacties een wijzigingsvoorstel doen dat in lijn is met de voorkeur in de reacties. Dit voorstel wordt vervolgens ter besluitvorming voorgelegd aan de werkgroep BAG-WOZ. Hoe uitgebreider de online discussie is (inclusief argumenten), hoe korter de discussie tijdens bijeenkomsten kan zijn. 
