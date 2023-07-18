@@ -1,6 +1,6 @@
 ---
 layout: page-with-side-nav
-title: Documentatie Zaak- en Documentservices
+title: Documentatie Wabo-BAG Services
 folder_files:
   - title: Extra-elementen voor bg0310 WABO-Bag 1.04
     path: documenten/Extra-elementen_voor_bg0310_wbg104.zip
