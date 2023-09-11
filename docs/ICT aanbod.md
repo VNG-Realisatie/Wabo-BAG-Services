@@ -5,8 +5,6 @@ title: ICT aanbod Wabo-BAG Services
 # ICT aanbod Wabo-BAG Services
 
 ## Afspraken met leveranciers
-In het [addendum Wabo-BAG services](https://www.softwarecatalogus.nl/addenda/addendum/Wabo-BAG%20services) zijn afspraken gemaakt over implementatie van deze standaard in software;
-Leveranciers zijn akkoord met de afspraak om de standaard beschikbaar te stellen in de 1e release na 1 juli 2014 en uiterlijk 31 december 2014.
 Leveranciers houden de actuele releaseplanning ten aanzien van deze standaard bij in de [GEMMA Softwarecatalogus](https://www.softwarecatalogus.nl/).
 
 ## Hoe weet u welke leveranciers het koppelvlak Wabo-BAG Services beschikbaar hebben?
