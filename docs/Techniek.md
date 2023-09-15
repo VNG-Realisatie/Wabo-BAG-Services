@@ -13,4 +13,4 @@ De specificatie beschrijft services voor de volgende referentiecomponenten. Dit 
 ## Procesinteracties en systeemcomponenten
 Onderstaand overzicht beschrijft het applicatielandschap met de te standaardiseren proces- en systeeminteracties. De interacties met een grijs bolletje en een B erin zijn buiten scope geplaatst.
 
-<img src="./images/Koppelvlak_Wabo-BAG_klein.png" width="600"/>
+<img src="./images/Koppelvlak_Wabo-BAG_klein.png" width="800"/>
