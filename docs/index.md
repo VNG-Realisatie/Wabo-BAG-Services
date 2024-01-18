@@ -15,6 +15,12 @@ De meeste wijzigingen in de BAG vinden hun oorsprong in de processen voor vergun
 ## Status en doorontwikkeling
 Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk om invulling te (blijven) geven aan de behoefte en wensen van gemeenten. De doorontwikkeling van de StUF standaard, de StUF sectormodellen en de StUF koppelvlakken waaronder de hier beschreven Wabo-BAG Services is daarom stopgezet. Alleen wetswijzigingen, wijzigingen in de Logische Ontwerpen van Basisregistraties en gevonden fouten kunnen aanleiding zijn voor het publiceren van een nieuwe versie van deze standaarden. Zo wordt er voor gezorgd dat gemeenten hun werk kunnen blijven doen. Een toelichting op het vernieuwen van de standaarden is te vinden bij API-standaarden.
 
-## Discussieplatform
+## Community voor vragen en wijzigingsverzoeken
+Het kan voorkomen dat er nog onduidelijkheden zijn in de Wabo-BAG services. Daarvoor is op Github een
+[community](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/Koppelvlak%20-%20Wabo-BAG)
+beschikbaar gesteld waar u vragen kunt stellen door een issue aan te
+maken. Middels het label ‘Koppelvlak - Wabo-BAG’ kunt u het issue
+vervolgens aan deze standaard koppelen.
 
-Hier kunt u terecht voor de nieuwste discussies m.b.t.  [Wabo-BAG services](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/Koppelvlak%20-%20Wabo-BAG).
+Zowel VNG Realisatie als leveranciers en gemeenten kunnen dan online
+reageren op de vraag en deze beantwoorden.
