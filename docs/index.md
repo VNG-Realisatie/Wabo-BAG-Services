@@ -12,6 +12,9 @@ Wabo-BAG services is een op [StUF-ZKN](https://vng-realisatie.github.io/StUF-ZKN
 
 De meeste wijzigingen in de BAG vinden hun oorsprong in de processen voor vergunningverlening en handhaving. Gemeentes hebben voor de BAG hun eigen applicatie,terwijl voor vergunningverlening en handhaving meestal een andere applicatie (kortweg ‘de Wabo-applicatie’) beschikbaar is. Voor berichtenverkeer tussen de applicaties voor Wabo en BAG is dit koppelvlak beschreven.
 
+## Status en doorontwikkeling
+Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk om invulling te (blijven) geven aan de behoefte en wensen van gemeenten. De doorontwikkeling van de StUF standaard, de StUF sectormodellen en de StUF koppelvlakken waaronder de hier beschreven Wabo-BAG Services is daarom stopgezet. Alleen wetswijzigingen, wijzigingen in de Logische Ontwerpen van Basisregistraties en gevonden fouten kunnen aanleiding zijn voor het publiceren van een nieuwe versie van deze standaarden. Zo wordt er voor gezorgd dat gemeenten hun werk kunnen blijven doen. Een toelichting op het vernieuwen van de standaarden is te vinden bij API-standaarden.
+
 ## Discussieplatform
 
 Hier kunt u terecht voor de nieuwste discussies m.b.t.  [Wabo-BAG services](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/Koppelvlak%20-%20Wabo-BAG).
