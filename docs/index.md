@@ -6,7 +6,8 @@ title: Wabo-BAG Services
 
 **Actuele versie:** 1.04<br/> 
 **Beheerder:**  VNG Realisatie<br/>
-**Afkorting:**  StUF-Wabo-BAG
+**Afkorting:**  StUF-Wabo-BAG<br/>
+**Status:** In gebruik
 
 Wabo-BAG services is een op [StUF-ZKN](https://vng-realisatie.github.io/StUF-ZKN/) en [StUF-BG](https://vng-realisatie.github.io/StUF-BG/) gebaseerde berichtenstandaard voor de uitwisseling van de gegevens ten behoeve van de koppeling van Wabo- en BAG-administraties met als doel de BAG-administratie tijdig op de hoogte te stellen van (eventueel toekomstige) wijzigingen.
 
